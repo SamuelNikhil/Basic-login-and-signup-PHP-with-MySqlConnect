@@ -8,5 +8,5 @@ It covers :
 	-PHP
 		*COOKIES
 		*SESSIONS
-		*MVP PATTERN
+		*MVC PATTERN
 	-SQL
